@@ -1,5 +1,7 @@
 # Mazy
 
+![screenshot.png](screenshot.png)
+
 A program that demonstrates using randomized Prim's algorithm
 for creating mazes and wave algorithm to find the path to exit.
 
